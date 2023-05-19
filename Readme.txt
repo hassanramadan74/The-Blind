@@ -1,17 +1,17 @@
 - Using Git, a version control system, you can effectively develop a website for a blind shoe store with various functionalities. Here's an overview:
-  * Home Page
+  1. Home Page
     - The home page serves as the introductory page of the blind shoe store website.
     - It provides an overview of the store's offerings, including featured products and promotional content.
-  * About Page
+  2. About Page
     - The about page offers insights into the store, its mission, values, and background.
     - It helps users understand the purpose and unique aspects of the blind shoe store.
-  * Pricing Page
+  3. Pricing Page
     - The pricing page presents a comprehensive list of available shoes and their corresponding prices.
     - It includes various tiers or layers of shoes, accommodating different customer needs, from basic options to customized ones.
-  * Sign-In and Sign-Up Pages
+  4. Sign-In and Sign-Up Pages
     - The sign-in page allows registered users to authenticate themselves by logging into their accounts.
     - The sign-up page enables new customers to create an account and gain access to additional features or make purchases.
-  * Contact Us Page
+  5. Contact Us Page
     - The contact us page provides contact information for the blind shoe store, such as phone number, email address, or a contact form.
     - Users can utilize this page to reach out for inquiries, support, or any other communication needs.
 
